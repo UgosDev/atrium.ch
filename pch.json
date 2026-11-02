@@ -1,0 +1,7 @@
+{
+  "projectId": "atrium",
+  "name": "Atrium.ch — Lo Spazio Condiviso della Triade Legale Svizzera",
+  "framework": "html",
+  "outputDir": "dist",
+  "buildCommand": "node scripts/build-dist.mjs"
+}

@@ -1,0 +1,13 @@
+# Atrium.ch
+node_modules/
+dist/
+*.zip
+.env
+.env.*
+data/
+__pycache__/
+*.pyc
+.venv/
+venv/
+Thumbs.db
+.DS_Store

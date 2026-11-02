@@ -1,0 +1,19 @@
+{
+  "name": "atrium.ch",
+  "version": "0.1.0",
+  "description": "Atrium.ch — Lo spazio condiviso tra le tre stanze della triade legale svizzera",
+  "scripts": {
+    "build": "node scripts/build-dist.mjs",
+    "deploy:pagine": "node scripts/deployToPagine.mjs"
+  },
+  "keywords": [
+    "swiss-legaltech",
+    "atrium",
+    "triade",
+    "nuova-norma",
+    "anorma",
+    "ppatos"
+  ],
+  "author": "UnHub",
+  "license": "ISC"
+}
